@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'ZLWSG——新加坡新兴的科技服务公司', // 英雄区文字
-  STARTER_HERO_TITLE_2: '信息技术咨询、定制软件开发', // 英雄区文字
+  STARTER_HERO_TITLE_1: '新加坡金融科技软件服务公司', // 英雄区文字
+  STARTER_HERO_TITLE_2: '金融科技软件解决方案、信息技术咨询、定制软件开发', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始咨询', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -32,9 +32,9 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TEXT_1: '我们的核心竞争力', // 特性
   STARTER_FEATURE_TEXT_2:
-    'ZLWSG的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
+    'ZLWSG的开发团队致力于解决金融科技行业软件开发的严峻挑战。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '创新驱动', // 特性1
   STARTER_FEATURE_1_TEXT_1: '致力于成为技术创新的领导者，不断探索和实施最新的信息技术解决方案。', // 特性1
@@ -59,7 +59,7 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '科技创新引领业务增长的可信赖伙伴',
+  STARTER_ABOUT_TITLE: '软件创新驱动金融科技业务增长',
   STARTER_ABOUT_TEXT:
     '成为全球领先的信息技术咨询和定制软件开发公司，通过创新技术推动客户业务的转型和增长。 <br /> <br /> 为员工提供实现个人和职业发展的机会，为社会和环境的可持续发展做出贡献。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
@@ -240,9 +240,9 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: '联系我们',
   STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
+  STARTER_CONTACT_LOCATION_TEXT: 'Asia，Singapore',
   STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_EMAIL_TEXT: 'mail@zlwsg.com',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
