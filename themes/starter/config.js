@@ -10,13 +10,13 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '开源且免费的基于 Notion 笔记的网站构建工具', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'ZLWSG——新加坡新兴的科技服务公司', // 英雄区文字
+  STARTER_HERO_TITLE_2: '信息技术咨询、定制软件开发', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '开始咨询', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '关注我们', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
@@ -34,34 +34,34 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: '特性', // 特性
   STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
+    'ZLWSG的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '创新驱动', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '致力于成为技术创新的领导者，不断探索和实施最新的信息技术解决方案。', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '客户至上', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '以客户的需求和满意度为核心，提供定制化的软件解决方案，帮助客户实现业务增长和优化运营。', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '安全可信', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '确保所有技术解决方案的安全性和可靠性，赢得客户的信任和依赖。', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '可持续发展', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '注重企业的社会责任和环境保护，通过可持续的业务实践为社会和环境带来积极影响。', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
+  STARTER_ABOUT_TITLE: '科技创新引领业务增长的可信赖伙伴',
   STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
+    '成为全球领先的信息技术咨询和定制软件开发公司，通过创新技术推动客户业务的转型和增长。 <br /> <br /> 为员工提供实现个人和职业发展的机会，为社会和环境的可持续发展做出贡献。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -73,37 +73,37 @@ const CONFIG = {
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
   STARTER_PRICING_TITLE: '价格表',
-  STARTER_PRICING_TEXT_1: '很棒的定价计划',
+  STARTER_PRICING_TEXT_1: '软件定价计划',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    '我们制定了灵活的付费模式，您可以按需选择。',
 
-  STARTER_PRICING_1_TITLE: '入门版',
-  STARTER_PRICING_1_PRICE: '19.9',
+  STARTER_PRICING_1_TITLE: '入门版软件定制',
+  STARTER_PRICING_1_PRICE: '2000',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
-  STARTER_PRICING_1_PRICE_PERIOD: '每月',
+  STARTER_PRICING_1_PRICE_PERIOD: '项目包',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '软件框架设计,产品功能咨询,软件原型图', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
   STARTER_PRICING_2_TAG: '推荐',
-  STARTER_PRICING_2_TITLE: '基础版',
-  STARTER_PRICING_2_PRICE: '39.9',
+  STARTER_PRICING_2_TITLE: '基础版软件定制',
+  STARTER_PRICING_2_PRICE: '5000',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
-  STARTER_PRICING_2_PRICE_PERIOD: '每月',
+  STARTER_PRICING_2_PRICE_PERIOD: '项目包',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,技术咨询,性能优化', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
-  STARTER_PRICING_3_TITLE: '高级版',
-  STARTER_PRICING_3_PRICE: '59.9',
+  STARTER_PRICING_3_TITLE: '高级版软件定制',
+  STARTER_PRICING_3_PRICE: '10000',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
-  STARTER_PRICING_3_PRICE_PERIOD: '每月',
+  STARTER_PRICING_3_PRICE_PERIOD: '项目包',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发,技术总监1V1服务', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
